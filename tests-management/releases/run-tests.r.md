@@ -48,12 +48,12 @@ Test Run: Registro de Execução — Relatórios e Testes Automáticos (Unitári
     - Reports copied to `reports/`: Status: (fill in)
 
 ## Test Run: resultados por caso (Unit Tests)
-- AppTest \- TMS-ID: TMS-TC-001 \- Status: (PASS/FAIL/UNKNOWN) \- Report: `target/surefire-reports/`
-- BargeTest \- TMS-ID: TMS-TC-002 \- Status: (PASS/FAIL/UNKNOWN) \- Report: `target/surefire-reports/`
-- CaravelTest \- TMS-ID: TMS-TC-003 \- Status: (PASS/FAIL/UNKNOWN) \- Report: `target/surefire-reports/`
-- CarrackTest \- TMS-ID: TMS-TC-004 \- Status: (PASS/FAIL/UNKNOWN) \- Report: `target/surefire-reports/`
-- CompassTest \- TMS-ID: TMS-TC-005 \- Status: (PASS/FAIL/UNKNOWN) \- Report: `target/surefire-reports/`
-- FleetTest \- TMS-ID: TMS-TC-006 \- Status: (PASS/FAIL/UNKNOWN) \- Report: `target/surefire-reports/`
+- AppTest \- TMS-ID: TMS-TC-001 \- Status: PASSED \- EXECUTED BY: @LEI-123761 \- Report: `target/surefire-reports/`
+- BargeTest \- TMS-ID: TMS-TC-002 \- Status: PASSED \- EXECUTED BY: @LEI-123761 \- Report: `target/surefire-reports/`
+- CaravelTest \- TMS-ID: TMS-TC-003 \- Status: PASSED \- EXECUTED BY: @LEI-123761 \- Report: `target/surefire-reports/`
+- CarrackTest \- TMS-ID: TMS-TC-004 \- Status: PASSED \- EXECUTED BY: @LEI-123761 \- Report: `target/surefire-reports/`
+- CompassTest \- TMS-ID: TMS-TC-005 \- Status: PASSED \- EXECUTED BY: @LEI-123761 \- Report: `target/surefire-reports/`
+- FleetTest \- TMS-ID: TMS-TC-006 \- Status: PASSED \- EXECUTED BY: @LEI-123761 \- Report: `target/surefire-reports/`
 - FrigateTest \- TMS-ID: TMS-TC-007 \- Status: (PASS/FAIL/UNKNOWN) \- Report: `target/surefire-reports/`
 - GalleonTest \- TMS-ID: TMS-TC-008 \- Status: (PASS/FAIL/UNKNOWN) \- Report: `target/surefire-reports/`
 - GameTest \- TMS-ID: TMS-TC-009 \- Status: (PASS/FAIL/UNKNOWN) \- Report: `target/surefire-reports/`
