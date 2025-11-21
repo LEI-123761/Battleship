@@ -54,11 +54,11 @@ Test Run: Registro de Execução — Relatórios e Testes Automáticos (Unitári
 - CarrackTest \- TMS-ID: TMS-TC-004 \- Status: PASSED \- EXECUTED BY: @LEI-123761 \- Report: `target/surefire-reports/`
 - CompassTest \- TMS-ID: TMS-TC-005 \- Status: PASSED \- EXECUTED BY: @LEI-123761 \- Report: `target/surefire-reports/`
 - FleetTest \- TMS-ID: TMS-TC-006 \- Status: PASSED \- EXECUTED BY: @LEI-123761 \- Report: `target/surefire-reports/`
-- FrigateTest \- TMS-ID: TMS-TC-007 \- Status: (PASS/FAIL/UNKNOWN) \- Report: `target/surefire-reports/`
-- GalleonTest \- TMS-ID: TMS-TC-008 \- Status: (PASS/FAIL/UNKNOWN) \- Report: `target/surefire-reports/`
-- GameTest \- TMS-ID: TMS-TC-009 \- Status: (PASS/FAIL/UNKNOWN) \- Report: `target/surefire-reports/`
-- PositionTest \- TMS-ID: TMS-TC-010 \- Status: (PASS/FAIL/UNKNOWN) \- Report: `target/surefire-reports/`
-- ShipTest \- TMS-ID: TMS-TC-011 \- Status: (PASS/FAIL/UNKNOWN) \- Report: `target/surefire-reports/`
+- FrigateTest \- TMS-ID: TMS-TC-007 \- Status: PASSED \- EXECUTED BY: @LEI-105514 \- Report: `target/surefire-reports/`
+- GalleonTest \- TMS-ID: TMS-TC-008 \- Status: PASSED \- EXECUTED BY: @LEI-105514 \- Report: `target/surefire-reports/`
+- GameTest \- TMS-ID: TMS-TC-009 \- Status: PASSED \- EXECUTED BY: @LEI-105514 \- Report: `target/surefire-reports/`
+- PositionTest \- TMS-ID: TMS-TC-010 \- Status: PASSED \- EXECUTED BY: @LEI-105514 \- Report: `target/surefire-reports/`
+- ShipTest \- TMS-ID: TMS-TC-011 \- Status: PASSED \- EXECUTED BY: @LEI-105514 \- Report: `target/surefire-reports/`
 
 ## Artifacts
 - JUnit XML / Surefire: `target/surefire-reports/`
